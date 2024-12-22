@@ -1,4 +1,4 @@
-name: Arthur&Athena-Stable(V)
+name: Arthur&Athena-Stable-NOWIFI(V)
 
 on:
   workflow_dispatch:
